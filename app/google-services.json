@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700199620300",
+    "firebase_url": "https://messaging-c6273.firebaseio.com",
+    "project_id": "messaging-c6273",
+    "storage_bucket": "messaging-c6273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700199620300:android:d6d7a3f64d5b2e87",
+        "android_client_info": {
+          "package_name": "com.hello.khushboo.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700199620300-8f0462vs0anhtv8l4npmmpbgglvqpumb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hello.khushboo.messaging",
+            "certificate_hash": "02818f647ce90b5f77f7e1cf97515f85a3acae57"
+          }
+        },
+        {
+          "client_id": "700199620300-sabf3n00sihfuvfnkjnqrgtqn2kl53au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHQlBB5023-lMONwtMhVST8JEJ8ANBB-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700199620300-sabf3n00sihfuvfnkjnqrgtqn2kl53au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
